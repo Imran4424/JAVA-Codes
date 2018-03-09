@@ -1,0 +1,6 @@
+compile
+javac A.java
+
+Run
+
+appletviewer.exe A.html
