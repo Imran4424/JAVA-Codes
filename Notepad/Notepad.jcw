@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Notepad</label>
+	</settings>
+	<users>
+		<user>
+			<path>Notepad.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Notepad.jcp</path>
+		</project>
+		<project>
+			<path>..\NotepadJ\Notes.jcp</path>
+		</project>
+	</projects>
+</workspace>
